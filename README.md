@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+____________________________
 ### I'm Ana Oliveira
 
 AWS ☁️| Java
