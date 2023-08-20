@@ -24,5 +24,5 @@ AWS ☁️| Java
 ## Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-olima&langs_count=8)
-a-olima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
