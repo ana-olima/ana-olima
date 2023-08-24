@@ -10,7 +10,7 @@ AWS ☁️| Java
 
 :computer::books: I'm currently learning all about IT and Security.
 
-💞️ I’m looking to collaborate on awesome projects
+👩🏻‍💻 💞️I’m looking to collaborate on awesome projects
 
 
 ## Social Network
